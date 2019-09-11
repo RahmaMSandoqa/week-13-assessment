@@ -99,4 +99,21 @@
 </body>
 <?php
 
+//sudo mysql -u root -p
+//create databases myapplication;
+//create table users.(id int,password varchar(rahma123),email varchar(55),phone_number(int),number;
+//insert into users information;
+//<?php
+//try {
+  //  $conn = new PDO("mysql:host=$servername;dbname=myDB", $username, $password);
+    // set the PDO error mode to exception
+    //$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    //echo "Connected successfully";
+    }
+//catch(PDOException $e)
+  //  {
+    //echo "Connection failed: " . $e->getMessage();
+    //}
 
+//?>
+//use a if
